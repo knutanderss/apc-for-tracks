@@ -1,0 +1,8 @@
+resolver: lts-13.21
+
+packages:
+- .
+
+extra-deps:
+  - hmidi-0.2.2.1@sha256:b2d55b19c1174839b82688bafb5b9f7afd6f06a4a551219df5903f609a81d19c
+
