@@ -35,4 +35,5 @@ ${iconset} : ${pngFile}
 
 clean:
 		stack clean
+		rm ${iconset}
 		rm ${exe}
