@@ -1,1 +1,4 @@
 # apc
+
+## Build
+`make`
